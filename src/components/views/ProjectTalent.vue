@@ -3,7 +3,7 @@
         <div class="client-content">
             <div class="client-dashboard">
                 <div class="page-title">
-                    <h2>Proyek <img src="./Famos Talenta _ Dashboard_files/search.png" alt=""
+                    <h2>Proyek <img src="../../assets/icons/ic-book.png" alt=""
                             class="d-inline d-lg-none d-md-none" style="float:right;margin-top:5px" data-toggle="modal"
                             data-target="#modal-search"></h2>
                 </div>
@@ -21,11 +21,6 @@
                                 </div>
                                 <div class="col-12 col-md-3">
                                     <label>Filter :</label>
-                                    <!-- <select class="form-control" id="list_filter" onchange="cariProyek()">
-                  <option value=''>Semua Proyek</option>
-                  <option value='progress'>Sedang Berjalan</option>
-                  <option value='finished'>Sudah Selesai</option>
-                </select> -->
                                     <div class="dropdown bootstrap-select form-control select"><select
                                             class="form-control select" id="list_filter" onchange="cariProyek()"
                                             tabindex="-98">
