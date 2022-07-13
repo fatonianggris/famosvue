@@ -3,9 +3,8 @@
         <div class="client-content">
             <div class="client-brief">
                 <div class="page-title">
-                    <h2>Brief <img src="../../assets/icons/ic-book.png" alt=""
-                            class="d-inline d-lg-none d-md-none" style="float:right;margin-top:5px" data-toggle="modal"
-                            data-target="#modal-search"></h2>
+                    <h2>Brief <img src="../../assets/icons/ic-book.png" alt="" class="d-inline d-lg-none d-md-none"
+                            style="float:right;margin-top:5px" data-toggle="modal" data-target="#modal-search"></h2>
                 </div>
                 <div class="proyek-list_filter">
                     <form action="#">
@@ -56,8 +55,7 @@
                             <router-link to="/talent/detailbrief" style="text-decoration: none; color: inherit;">
                                 <div class="card-white pink rejected">
                                     <div class="top">
-                                        <div class="icon brief-icon">
-                                            <img src="c">
+                                        <div class="icon"><img src="../../assets/icons/ic-yuk-bayar.png">
                                         </div>
                                         <div class="text">
                                             <h4 class="text-orange mt-2">

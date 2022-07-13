@@ -137,14 +137,12 @@
                                 <li class="nav-item nav-tab__item" role="presentation"><a class="nav-tab__link nav-link"
                                         id="kontak-tab" data-toggle="tab"
                                         href="https://famoscompany.com/clients/brief/detail/123#kontak" role="tab"
-                                        aria-controls="kontak" aria-selected="true"><span><img
-                                                src="../../assets/icons/ic-rincian.png">
+                                        aria-controls="kontak" aria-selected="true"><span>
                                             <span>Rincian Kontak</span></span></a></li>
                                 <li class="nav-item nav-tab__item" role="presentation"><a class="nav-tab__link nav-link"
                                         id="npwp-tab" data-toggle="tab"
                                         href="https://famoscompany.com/clients/brief/detail/123#npwp" role="tab"
-                                        aria-controls="npwp" aria-selected="true"><span><img
-                                                src="../../assets/icons/ic-rincian.png">
+                                        aria-controls="npwp" aria-selected="true"><span>
                                             <span>NPWP</span></span></a></li>
                             </ul>
 
@@ -405,7 +403,7 @@
                                                 <div id="files_1" class="filename notif_upload-1 mt-3 ml-3"
                                                     style="display:none">1 file diunggah &nbsp;<img
                                                         style="display:inline;"
-                                                        src="../../assets/icons/ic-green-check.png">
+                                                        src="../../assets/icons/ic-brief-need-confirm.png">
                                                 </div>
                                             </div>
                                             <small class="link_doc" style="display: none;"> <a class="link_doc"
@@ -426,7 +424,7 @@
                                                 <div id="files_2" class="filename notif_upload-2 mt-3 ml-3"
                                                     style="display:none">1 file diunggah &nbsp;<img
                                                         style="display:inline;"
-                                                        src="../../assets/icons/ic-green-check.png">
+                                                        src="../../assets/icons/ic-angle-down.png">
                                                 </div>
                                             </div>
                                             <small class="link_doc" style="display: none;"> <a class="link_doc"
