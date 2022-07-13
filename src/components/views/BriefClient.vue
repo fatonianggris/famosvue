@@ -3,7 +3,7 @@
         <div class="client-content">
             <div class="client-brief">
                 <div class="page-title">
-                    <h2>Brief <img src="../../assets/icons/search.png" alt="" class="d-inline d-lg-none d-md-none"
+                    <h2>Brief <img src="./../assets/icons/ic-book.png" alt="" class="d-inline d-lg-none d-md-none"
                             style="float:right;margin-top:5px" data-toggle="modal" data-target="#modal-search"></h2>
                 </div>
 

@@ -3,13 +3,13 @@
         <div class="client-content">
             <div class="client-brief">
                 <div class="page-title">
-                    <h2>Brief <img src="./Famos Talenta _ Daftar Brief_files/search.png" alt=""
+                    <h2>Brief <img src="../../assets/icons/ic-book.png" alt=""
                             class="d-inline d-lg-none d-md-none" style="float:right;margin-top:5px" data-toggle="modal"
                             data-target="#modal-search"></h2>
                 </div>
 
                 <div class="proyek-list_filter">
-                    <form action="https://famoscompany.com/talentas/brief#">
+                    <form action="#">
                         <div class="row">
                             <div class="col-12 col-md-7">
                                 <div class="form-group form-search">
@@ -58,7 +58,7 @@
                                 <div class="card-white pink rejected">
                                     <div class="top">
                                         <div class="icon brief-icon">
-                                            <img src="../../assets/icons/ic-progres.png">
+                                            <img src="c">
                                         </div>
                                         <div class="text">
                                             <h4 class="text-orange mt-2">

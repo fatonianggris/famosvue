@@ -7,7 +7,7 @@
                         <div class="panel">
                             <div class="pembayaran-title">
                                 <div class="back"><a class="btn-back"
-                                        href="https://famoscompany.com/clients/pembayaran">
+                                        href="#">
                                         <div class="ic"><img src="../../assets/icons/ic-caret-right.svg"></div>
                                     </a></div>
                                 <h3>Detail Brief</h3>
