@@ -7,7 +7,6 @@
                             class="d-inline d-lg-none d-md-none" style="float:right;margin-top:5px" data-toggle="modal"
                             data-target="#modal-search"></h2>
                 </div>
-
                 <div class="proyek-list_filter">
                     <form action="#">
                         <div class="row">
