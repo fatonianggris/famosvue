@@ -1,4 +1,7 @@
-
+<script>
+import('./assets/css/login/main.css')
+import('./assets/css/main/main-talenta.css')
+</script>
 <template>
     <main>
         <section class="block-ap ">

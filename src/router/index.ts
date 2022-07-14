@@ -29,6 +29,7 @@ const routes = [
         path: "/talent",
         name: "talent",
         component: Talent,
+        meta: { status: 'talent' },
         children: [
             { path: '/talent', name: "berandatalent", component: BerandaTalent },
             { path: '/talent/project', name: "projecttalent", component: ProjectTalent },

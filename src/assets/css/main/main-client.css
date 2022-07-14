@@ -400,7 +400,7 @@ body {
 .datepicker table th.prev,
 .datepicker table th.next {
 	font-size: 0;
-	background-image: url("../images/ic-caret-right.svg");
+	background-image: url("../../icons/ic-caret-right.svg");
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -409,7 +409,7 @@ body {
 
 .datepicker table th.prev:hover,
 .datepicker table th.next:hover {
-	background-image: url("../images/ic-caret-right.svg");
+	background-image: url("../../icons/ic-caret-right.svg");
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -1057,7 +1057,7 @@ main {
 	content: "";
 	width: 18px;
 	height: 18px;
-	background-image: url("../images/ic-upload-file.png");
+	background-image: url("../../icons/ic-upload-file.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -1603,7 +1603,7 @@ textarea.form-control {
 	position: absolute;
 	right: 20px;
 	top: 15px;
-	background-image: url("../images/ic-date.png");
+	background-image: url("../../icons/ic-date.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -1833,7 +1833,7 @@ h1.logo .header__logo img {
 	height: 40px;
 	border-radius: 8px;
 	background: #F23C13;
-	background-image: url("../images/ic-plus-btn.png");
+	background-image: url("../../icons/ic-plus-btn.png");
 	background-position: center;
 	background-size: 14px;
 	background-repeat: no-repeat;
@@ -1979,7 +1979,7 @@ h1.logo .header__logo img {
 	display: inline-block;
 	vertical-align: middle;
 	margin-left: 8px;
-	background-image: url("../images/ic-caret-right.svg");
+	background-image: url("../../icons/ic-caret-right.svg");
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -2082,7 +2082,6 @@ h1.logo .header__logo img {
 .sidemenu ul {
 	padding-bottom: 24px;
 	margin-bottom: 24px;
-	border-bottom: 1px solid #EDEDED;
 }
 
 .sidemenu ul li {
@@ -2568,7 +2567,7 @@ section:last-child {
 	width: 12px;
 	height: 12px;
 	display: inline-block;
-	background-image: url(../images/ic-plus-btn.png);
+	background-image: url(../../icons/ic-plus-btn.png);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -2880,7 +2879,7 @@ section:last-child {
 	height: 24px;
 	border-radius: 4px;
 	background: #A8A8A8;
-	background-image: url(../images/ic-plus-btn.png);
+	background-image: url(../../icons/ic-plus-btn.png);
 	background-position: center;
 	background-size: 14px;
 	background-repeat: no-repeat;
@@ -2915,7 +2914,7 @@ section:last-child {
 	height: 24px;
 	border-radius: 4px;
 	background: #F23C13;
-	background-image: url(../images/ic-plus-btn.png);
+	background-image: url(../../icons/ic-plus-btn.png);
 	background-position: center;
 	background-size: 14px;
 	background-repeat: no-repeat;
@@ -3656,7 +3655,7 @@ hr.line {
 	content: "";
 	border-radius: 50px;
 	background: #F23C13;
-	background-image: url("../images/ic-primary-check.png");
+	background-image: url("../../icons/ic-primary-check.png");
 	position: absolute;
 	left: -45px;
 	top: calc(50% - 12px);
@@ -3909,7 +3908,7 @@ hr.line {
 	content: "";
 	width: 28px;
 	height: 28px;
-	background: url(../images/ic-head-account.png);
+	background: url(../../icons/ic-head-account.png);
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;

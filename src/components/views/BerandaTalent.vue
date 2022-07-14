@@ -88,8 +88,7 @@
                                 </p>
                                 <h3 class="mb-3">Rp0</h3>
                                 <p>Belum ada Riwayat Wallet</p>
-                                <a href="#"
-                                    class="btn btn-info bg-blue">Tarik Dana</a>
+                                <a href="#" class="btn btn-info bg-blue">Tarik Dana</a>
                             </div>
                         </div>
                         <div class="card-white card-proyek p-0 d-none d-md-block d-lg-block d-xl-block">

@@ -1,7 +1,7 @@
 <template>
     <aside class="sidebar" id="sidebar">
         <h1 class="logo d-none d-lg-block d-md-block">
-            <a class="header__logo" href="#"><img src="../../assets/icons/logo-famos-pink.png" alt="logo-famos" /></a>
+            <a class="header__logo" href="#"><img src="../../assets/icons/logo-famos-orange.png" alt="logo-famos" /></a>
         </h1>
         <nav class="sidemenu">
             <ul>

@@ -4,6 +4,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "allowJs": true,
+    "types": ["jquery"],
     "paths": {
       "@/*": ["./src/*"]
     },
