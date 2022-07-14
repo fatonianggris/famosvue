@@ -4504,7 +4504,7 @@ section.brief .col-md-3 {
 	padding: 22px;
 }
 
-.pembayaran-list table tbody tr:last-of-type() {
+.pembayaran-list table tbody tr:last-of-type {
 	margin-bottom: 0;
 }
 

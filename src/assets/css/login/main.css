@@ -281,7 +281,7 @@ body {
 	}
 
 	100% {
-		ransform: translateY(0);
+		transform: translateY(0);
 	}
 }
 
@@ -1719,7 +1719,7 @@ select.select-control {
 		background: #000000;
 		position: absolute;
 		left: 0;
-		trnasform: none;
+		transform: none;
 		transition: all .3s ease-in-out;
 	}
 
